@@ -1,0 +1,74 @@
+[
+  {
+    "id": "mercado",
+    "nome": "Mercado e Finanças",
+    "pilar": "mercado",
+    "cor": "#6E8BC8",
+    "texto": "#0B1F3A",
+    "ativo": true
+  },
+  {
+    "id": "instituicoes",
+    "nome": "Política e Instituições",
+    "pilar": "instituicoes",
+    "cor": "#7A4FD6",
+    "texto": "#F4F7FB",
+    "ativo": true
+  },
+  {
+    "id": "politica-economia",
+    "nome": "Política e Economia",
+    "pilar": "politica-economia",
+    "cor": "#B07AA8",
+    "texto": "#0B1F3A",
+    "ativo": true
+  },
+  {
+    "id": "agro",
+    "nome": "Agro",
+    "pilar": "agro",
+    "cor": "#1FA971",
+    "texto": "#0B1F3A",
+    "ativo": true
+  },
+  {
+    "id": "mundo",
+    "nome": "Mundo e Brasil",
+    "pilar": "mundo",
+    "cor": "#14A3B8",
+    "texto": "#0B1F3A",
+    "ativo": true
+  },
+  {
+    "id": "bolso",
+    "nome": "No seu bolso",
+    "pilar": "bolso",
+    "cor": "#C08490",
+    "texto": "#0B1F3A",
+    "ativo": true
+  },
+  {
+    "id": "um-minuto",
+    "nome": "Entenda em 1 minuto",
+    "pilar": "um-minuto",
+    "cor": "#4DA3FF",
+    "texto": "#0B1F3A",
+    "ativo": true
+  },
+  {
+    "id": "sao-paulo",
+    "nome": "São Paulo",
+    "pilar": "sao-paulo",
+    "cor": "#F5A524",
+    "texto": "#0B1F3A",
+    "ativo": true
+  },
+  {
+    "id": "bussola",
+    "nome": "Bússola",
+    "pilar": "bussola",
+    "cor": "#F5A524",
+    "texto": "#0B1F3A",
+    "ativo": true
+  }
+]

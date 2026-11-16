@@ -1,0 +1,40 @@
+{
+  "redes": [
+    {
+      "id": "instagram",
+      "nome": "Instagram",
+      "url": "https://www.instagram.com/northlyexplica/",
+      "ativo": true
+    },
+    {
+      "id": "x",
+      "nome": "X",
+      "url": "",
+      "ativo": false
+    },
+    {
+      "id": "tiktok",
+      "nome": "TikTok",
+      "url": "",
+      "ativo": false
+    },
+    {
+      "id": "threads",
+      "nome": "Threads",
+      "url": "",
+      "ativo": false
+    },
+    {
+      "id": "youtube",
+      "nome": "YouTube",
+      "url": "",
+      "ativo": false
+    },
+    {
+      "id": "linkedin",
+      "nome": "LinkedIn",
+      "url": "",
+      "ativo": false
+    }
+  ]
+}
